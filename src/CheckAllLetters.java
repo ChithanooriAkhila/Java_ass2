@@ -23,3 +23,7 @@ public class CheckAllLetters {
         return false;
     }
 }
+/*
+time complexity:O(n)
+space complexity:O(1)
+ */

@@ -27,5 +27,10 @@ public class CheckAlphabet {
         if(hm.size()==26) return true;
         return false;
     }
-    //ex:lazy dog jumps over a quick and brown fox ht
+    //ex:The quick brown fox jumps over the lazy dog //pangram
+    // Amazingly few discotheques provide jukeboxes
 }
+/*
+time complexity:O(n)
+space complexity:O(1)
+ */

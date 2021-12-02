@@ -29,3 +29,7 @@ public class Alphabet {
         return true;
     }
 }
+/*
+time complexity:O(n)
+space complexity:O(1)
+ */
